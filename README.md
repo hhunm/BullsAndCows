@@ -1,5 +1,5 @@
-# Bulls and cows (Project Name)
-## 紹介
+# プロジェクト名: Bulls and Cows
+
 Raspberry Piに ジョイスティックを繋げて、Bulls and Cowsゲームを制作しました。 
 Bulls and Cowsゲームは番号を推測するゲームです。数字を当てたらファイルから読み込んだ記録とプレイヤーの記録を比較して、順位に含めるかを決めます。 
 ランキングに登録する必要がある場合は、名前を入力して適切な場所に入れます。<br>
